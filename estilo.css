@@ -1,46 +1,26 @@
-/*
-div{
-	
-	color: grey;
-}
+
 .caixa {
+	
+	float: left;
+	width: 100%;
+	margin: 0.5%
+}
+.miniatura{
+	width: 200px;
+	height: 200px;
+}
+
+.fundo{
 	border-radius: 5px;
 	border-color: antiquewhite;
 	border-style: outset;
 	border-width: 2px;
 	background-color: white;
-	
-}
-.miniatura{
-	width: 150px;
-	height: 150px;
-	display: inline;
-	
-}
-.conteudo{
-	max-width: 400px;
-	padding: 5px;
-	margin: auto;
 
-}
-body{
-	background-color: lightgrey;
 	
 }
 div{
 	display: inline;
-}
-.noticia{
-	color: grey;
-	font-family: sans-serif;
-	display:inline;
-}
-*/
-
-.caixa{
-	float: left;
-	width: 100%;
-	margin: 0.5%
 }
 
 .caixa2{
@@ -54,4 +34,8 @@ div{
 .clearfix {
 	content: ' ';
 	display: table;
+}
+.letra{
+	color: grey;
+	font-family: sans-serif;
 }
