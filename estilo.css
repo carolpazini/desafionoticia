@@ -1,6 +1,4 @@
 div{
-	display: inline-block;
-}
-li{
-	display: inline-block;
+	display: inline;
+	color: gray;
 }
