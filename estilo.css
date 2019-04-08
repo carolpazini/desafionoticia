@@ -1,20 +1,27 @@
 div{
-	display: inline;
+	
 	color: grey;
 }
 .caixa {
 	border-radius: 5px;
-	border-color: grey;
+	border-color: antiquewhite;
 	border-style: outset;
 	border-width: 2px;
+	background-color: white;
+	
 }
 .miniatura{
 	width: 150px;
 	height: 150px;
+	
 }
 .conteudo{
-	max-width: 600px;
+	max-width: 400px;
 	padding: 5px;
 	margin: auto;
-	background-color: black;
+
+}
+body{
+	background-color: lightgrey;
+	display: inline-block;
 }
