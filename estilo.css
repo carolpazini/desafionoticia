@@ -1,4 +1,16 @@
 div{
 	display: inline;
-	color: gray;
+	color: grey;
+}
+.border {
+	border-radius: 5px;
+	border-color: grey;
+}
+
+.conteudo{
+	max-width: 1280px;
+	width: 80%;
+	padding: 5px;
+	margin: auto;
+	background-color: black;
 }
