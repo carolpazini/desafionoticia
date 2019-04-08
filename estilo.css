@@ -2,14 +2,18 @@ div{
 	display: inline;
 	color: grey;
 }
-.border {
+.caixa {
 	border-radius: 5px;
 	border-color: grey;
+	border-style: outset;
+	border-width: 2px;
 }
-
+.miniatura{
+	width: 150px;
+	height: 150px;
+}
 .conteudo{
-	max-width: 1280px;
-	width: 80%;
+	max-width: 600px;
 	padding: 5px;
 	margin: auto;
 	background-color: black;
