@@ -2,8 +2,8 @@
 .caixa {
 	
 	float: left;
-	width: 100%;
-	margin: 0.5%
+	width: 400px;
+	
 }
 .miniatura{
 	width: 200px;
@@ -24,7 +24,7 @@ div{
 }
 
 .caixa2{
-	width: 45%;
+	width: 200px;
 }
 
 .branco{
@@ -38,4 +38,12 @@ div{
 .letra{
 	color: grey;
 	font-family: sans-serif;
+	font-weight: bold;
+	font-size: 20px;
+	padding: 10px;
+}
+.miniatura2{
+	width: 100px;
+	height: 40px;
+	float: right;
 }
