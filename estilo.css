@@ -40,10 +40,15 @@ div{
 	font-family: sans-serif;
 	font-weight: bold;
 	font-size: 20px;
-	padding: 10px;
+	padding: 9px;
 }
 .miniatura2{
 	width: 100px;
-	height: 40px;
+	height: 35px;
 	float: right;
+}
+
+p{
+	font-size: 14px;
+	display: inline;
 }
