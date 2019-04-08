@@ -1,3 +1,4 @@
+/*
 div{
 	
 	color: grey;
@@ -13,6 +14,7 @@ div{
 .miniatura{
 	width: 150px;
 	height: 150px;
+	display: inline;
 	
 }
 .conteudo{
@@ -23,5 +25,33 @@ div{
 }
 body{
 	background-color: lightgrey;
-	display: inline-block;
+	
+}
+div{
+	display: inline;
+}
+.noticia{
+	color: grey;
+	font-family: sans-serif;
+	display:inline;
+}
+*/
+
+.caixa{
+	float: left;
+	width: 100%;
+	margin: 0.5%
+}
+
+.caixa2{
+	width: 45%;
+}
+
+.branco{
+	background-color: white
+}
+
+.clearfix {
+	content: ' ';
+	display: table;
 }
